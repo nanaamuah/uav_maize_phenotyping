@@ -1,0 +1,23 @@
+"file","size_mb"
+"phenotype/g2f_2017_agronomic information.csv",0.01
+"phenotype/g2f_2017_field_metadata.csv",0.01
+"phenotype/g2f_2017_hybrid_data_clean.csv",2.74
+"phenotype/g2f_2017_hybrid_data_raw.csv",2.77
+"phenotype/g2f_2017_supplemental_information.txt",0.01
+"uav/20170420_FW_multi/CS17_G2F_20170420_FW_multi_DSM.tif",30.61
+"uav/20170420_FW_multi/CS17_G2F_20170420_FW_multi_Mosaic.tif",550.57
+"uav/20170420_FW_multi/CS17_G2F_20170420_FW_multi_MosiacReport.pdf",1.64
+"uav/20170420_FW_RGB/CS17_G2F_20170420_FW_RGB_Mosaic.tif",1313.34
+"uav/20170420_FW_RGB/CS17_G2F_20170420_FW_RGB_MosiacReport.pdf",1.42
+"uav/CS17_G2F_0README.txt",0.01
+"uav/CS17_G2F_FieldMap.pdf",0.47
+"uav/CS17_G2F_FieldMap.xlsx",0.04
+"uav/CS17_G2F_FieldNotes.csv",0.37
+"uav/CS17_G2F_FlightDate.csv",0
+"uav/CS17_G2F_GCPcoord.csv",0
+"uav/shapefiles/CS17-DG2F.dbf",0.04
+"uav/shapefiles/CS17-DG2F.shp",0.06
+"uav/shapefiles/CS17-DG2F.shx",0
+"uav/shapefiles/CS17-G2FE.dbf",0.05
+"uav/shapefiles/CS17-G2FE.shp",0.08
+"uav/shapefiles/CS17-G2FE.shx",0

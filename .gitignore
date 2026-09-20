@@ -1,0 +1,34 @@
+# Raw data (downloaded from CyVerse, not redistributed)
+data/raw/
+
+# Processed data: keep the CSV tables the report reads, drop large files
+data/processed/*
+!data/processed/*.csv
+
+# renv
+renv/library/
+renv/local/
+renv/staging/
+renv/cellar/
+renv/python/
+renv/sandbox/
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Quarto build files (index.html is tracked for GitHub Pages)
+.quarto/
+*_files/
+report.html
+
+# Working notes and system files
+notes/
+*.log
+.DS_Store
+Thumbs.db
+
+/.quarto/
+**/*.quarto_ipynb
