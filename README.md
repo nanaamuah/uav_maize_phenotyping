@@ -2,7 +2,7 @@
 
 This repository takes one RGB flight from the Genomes to Fields (G2F) maize UAV trial at College Station, Texas, in 2017, and carries it from the orthomosaic to a selection decision. The question is whether plot-level canopy traits recorded on 20 April 2017 rank hybrids for rainfed grain yield well enough to cull the bottom half of the trial before harvest. The project was built as a technical exercise in plot-scale UAV phenotyping and field-trial statistics. It was limited to a single date so that every step, from plot polygons to spatially corrected models, could be checked end to end before the analysis is extended to the rest of the season.
 
-The rendered report, `index.html`, sits in the project root and is published through GitHub Pages from the root of the main branch.
+View the rendered report here [View the rendered report](https://nanaamuah.github.io/uav_maize_phenotyping/)
 
 ## Result in brief
 
@@ -87,3 +87,5 @@ The code is released under the MIT licence (see `LICENCE`). The G2F data are not
 ## Reference
 
 Murray, S. C., Malambo, L., Popescu, S., Cope, D., Anderson, S. L., Chang, A., Jung, J., Cruzato, N., Wilde, S., & Walls, R. L. (2019). *G2F Maize UAV Data, College Station, Texas 2017* [Data set]. CyVerse Data Commons. https://doi.org/10.25739/4ext-5e97
+
+![README views](https://hits.sh/github.com/nanaamuah/uav_maize_phenotyping.svg?label=README%20views&color=2e7d32)
